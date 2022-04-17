@@ -1,0 +1,14 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache

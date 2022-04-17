@@ -1,0 +1,14 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache

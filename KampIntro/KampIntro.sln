@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{D9C583FE-F43A-4140-A7FC-20E5356BBA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{D1D50E37-6F22-4007-AB11-3AE67A3B4FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{77300C0B-C402-40EE-8F64-3AA52A4BE4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C583FE-F43A-4140-A7FC-20E5356BBA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C583FE-F43A-4140-A7FC-20E5356BBA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C583FE-F43A-4140-A7FC-20E5356BBA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C583FE-F43A-4140-A7FC-20E5356BBA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D50E37-6F22-4007-AB11-3AE67A3B4FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D50E37-6F22-4007-AB11-3AE67A3B4FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D50E37-6F22-4007-AB11-3AE67A3B4FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D50E37-6F22-4007-AB11-3AE67A3B4FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77300C0B-C402-40EE-8F64-3AA52A4BE4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77300C0B-C402-40EE-8F64-3AA52A4BE4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77300C0B-C402-40EE-8F64-3AA52A4BE4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77300C0B-C402-40EE-8F64-3AA52A4BE4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B6D7EB-FA89-4739-8B99-07A91EE40B3C}
+	EndGlobalSection
+EndGlobal
