@@ -1,0 +1,14 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\bin\Debug\netcoreapp3.1\HW_BasicETrade.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\bin\Debug\netcoreapp3.1\HW_BasicETrade.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\bin\Debug\netcoreapp3.1\HW_BasicETrade.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\bin\Debug\netcoreapp3.1\HW_BasicETrade.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\bin\Debug\netcoreapp3.1\HW_BasicETrade.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\bin\Debug\netcoreapp3.1\HW_BasicETrade.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.genruntimeconfig.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_BasicETrade\obj\Debug\netcoreapp3.1\HW_BasicETrade.csproj.AssemblyReference.cache
