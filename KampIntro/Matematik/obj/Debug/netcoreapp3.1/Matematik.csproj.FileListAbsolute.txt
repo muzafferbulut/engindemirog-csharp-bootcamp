@@ -1,0 +1,13 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

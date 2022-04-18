@@ -22,7 +22,12 @@ namespace KampIntro
             string kategoriEtiketi = "Kategori"; // karakter dizileri
             int ogrenciSayisi = 32000;          // tam sayı değerleri
             double faizOrani = 32.27;           // ondalıklı sayılar
-            bool isActive = true;               // boolean değer
+            bool isActive = true;              // boolean değer
+
+            Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(ogrenciSayisi);
+            Console.WriteLine(faizOrani);
+            Console.WriteLine(isActive);
 
 
             //  şart blokları
