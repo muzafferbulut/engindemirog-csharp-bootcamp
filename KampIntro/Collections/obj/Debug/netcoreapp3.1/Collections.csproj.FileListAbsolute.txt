@@ -1,0 +1,14 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.AssemblyReference.cache
