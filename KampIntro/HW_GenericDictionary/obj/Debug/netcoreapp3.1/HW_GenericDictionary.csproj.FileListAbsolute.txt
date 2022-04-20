@@ -1,0 +1,14 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\bin\Debug\netcoreapp3.1\HW_GenericDictionary.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\bin\Debug\netcoreapp3.1\HW_GenericDictionary.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\bin\Debug\netcoreapp3.1\HW_GenericDictionary.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\bin\Debug\netcoreapp3.1\HW_GenericDictionary.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\bin\Debug\netcoreapp3.1\HW_GenericDictionary.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\bin\Debug\netcoreapp3.1\HW_GenericDictionary.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\HW_GenericDictionary\obj\Debug\netcoreapp3.1\HW_GenericDictionary.genruntimeconfig.cache
