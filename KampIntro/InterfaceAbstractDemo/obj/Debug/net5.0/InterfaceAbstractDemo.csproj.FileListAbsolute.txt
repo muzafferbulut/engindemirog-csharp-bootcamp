@@ -1,0 +1,16 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\bin\Debug\net5.0\InterfaceAbstractDemo.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\bin\Debug\net5.0\InterfaceAbstractDemo.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\bin\Debug\net5.0\InterfaceAbstractDemo.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\bin\Debug\net5.0\InterfaceAbstractDemo.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\bin\Debug\net5.0\InterfaceAbstractDemo.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\bin\Debug\net5.0\ref\InterfaceAbstractDemo.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\bin\Debug\net5.0\InterfaceAbstractDemo.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\ref\InterfaceAbstractDemo.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\InterfaceAbstractDemo\obj\Debug\net5.0\InterfaceAbstractDemo.genruntimeconfig.cache
