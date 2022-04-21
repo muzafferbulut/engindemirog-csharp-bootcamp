@@ -1,0 +1,14 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\bin\Debug\netcoreapp3.1\OOP2.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.genruntimeconfig.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.AssemblyReference.cache
