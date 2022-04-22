@@ -1,0 +1,10 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\Calculator\Calculator\obj\Debug\Calculator.pdb
