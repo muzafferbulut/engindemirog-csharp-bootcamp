@@ -1,0 +1,10 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\csharp-example-projects\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
