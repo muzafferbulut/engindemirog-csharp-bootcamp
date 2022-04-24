@@ -1,0 +1,16 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\bin\Debug\net5.0\GameDemoProject.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\bin\Debug\net5.0\GameDemoProject.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\bin\Debug\net5.0\GameDemoProject.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\bin\Debug\net5.0\GameDemoProject.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\bin\Debug\net5.0\GameDemoProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\bin\Debug\net5.0\ref\GameDemoProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\bin\Debug\net5.0\GameDemoProject.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\ref\GameDemoProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameDemoProject\GameDemoProject\obj\Debug\net5.0\GameDemoProject.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GameDemoProject/1.0.0": {
+        "runtime": {
+          "GameDemoProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameDemoProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
