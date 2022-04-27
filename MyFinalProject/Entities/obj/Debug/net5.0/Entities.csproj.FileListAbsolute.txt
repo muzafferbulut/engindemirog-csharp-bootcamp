@@ -1,0 +1,12 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\bin\Debug\net5.0\Entities.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\Entities.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Entities\obj\Debug\net5.0\Entities.pdb

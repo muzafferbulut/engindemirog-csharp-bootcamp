@@ -1,0 +1,17 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\Business.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\Business.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\ref\Business.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\Business.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\DataAccess.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\Entities.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\DataAccess.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\bin\Debug\net5.0\Entities.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\ref\Business.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Business\obj\Debug\net5.0\Business.pdb

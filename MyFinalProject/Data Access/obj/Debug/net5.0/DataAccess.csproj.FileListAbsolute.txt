@@ -1,0 +1,15 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\bin\Debug\net5.0\DataAccess.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\bin\Debug\net5.0\DataAccess.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\bin\Debug\net5.0\ref\DataAccess.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\bin\Debug\net5.0\DataAccess.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\bin\Debug\net5.0\Entities.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\bin\Debug\net5.0\Entities.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\MyFinalProject\Data Access\obj\Debug\net5.0\DataAccess.pdb
