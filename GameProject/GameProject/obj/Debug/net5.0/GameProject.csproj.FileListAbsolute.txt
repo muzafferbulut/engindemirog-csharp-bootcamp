@@ -1,0 +1,16 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\bin\Debug\net5.0\GameProject.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\bin\Debug\net5.0\GameProject.deps.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\bin\Debug\net5.0\GameProject.runtimeconfig.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\bin\Debug\net5.0\GameProject.runtimeconfig.dev.json
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\bin\Debug\net5.0\GameProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\bin\Debug\net5.0\ref\GameProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\bin\Debug\net5.0\GameProject.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.AssemblyInfo.cs
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\ref\GameProject.dll
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\GameProject\GameProject\obj\Debug\net5.0\GameProject.genruntimeconfig.cache
