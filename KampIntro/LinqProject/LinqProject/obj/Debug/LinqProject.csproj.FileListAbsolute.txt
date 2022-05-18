@@ -1,0 +1,7 @@
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\LinqProject\LinqProject\bin\Debug\LinqProject.exe.config
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\LinqProject\LinqProject\bin\Debug\LinqProject.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\LinqProject\LinqProject\bin\Debug\LinqProject.pdb
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\LinqProject\LinqProject\obj\Debug\LinqProject.exe
+D:\Programlama\Csharp\engindemirog-csharp-bootcamp\KampIntro\LinqProject\LinqProject\obj\Debug\LinqProject.pdb
